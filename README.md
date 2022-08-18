@@ -3,7 +3,7 @@
 A raymarcher based on [this](http://nifty.stanford.edu/2022/crotts-matzureff-ray-marching/) nifty.
 Written in C++20 with SFML.
 
-![](/home/ethan/dev/school/nifties/nifty-ray-marcher/screenshots/demo.png)
+![](screenshots/demo.png)
 
 ## Dependencies
 
